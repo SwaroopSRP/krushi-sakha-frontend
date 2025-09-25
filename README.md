@@ -1,4 +1,6 @@
-# Farming assistant frontend
+# Krushi Sakha Frontend
+
+Frontend interface for our SIH Internal Hackathon 2025 built using Next.js on V0
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
