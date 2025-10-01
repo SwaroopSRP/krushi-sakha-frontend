@@ -16,7 +16,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/swaroopsrps-projects/v0-farming-assistant-frontend](https://vercel.com/swaroopsrps-projects/v0-farming-assistant-frontend)**
+**[https://v0-farming-assistant-frontend.vercel.app/](https://v0-farming-assistant-frontend.vercel.app/)**
 
 ## Build your app
 
