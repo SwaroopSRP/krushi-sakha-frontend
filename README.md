@@ -18,6 +18,9 @@ Your project is live at:
 
 **[https://v0-farming-assistant-frontend.vercel.app/](https://v0-farming-assistant-frontend.vercel.app/)**
 
+
+IMPORTANT!: This needs to be locally run with the backend code ([repo](https://github.com/SwaroopSRP/krushi-sakha-backend)) setup, refactored accordingly and started as server.
+
 ## Build your app
 
 Continue building your app on:
